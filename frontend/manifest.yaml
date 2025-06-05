@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: learn25/frontend:1.2.0
+        image: joindevops/frontend:1.2.0
         ports:
         - containerPort: 8080
 ---
