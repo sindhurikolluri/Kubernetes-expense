@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: learn25/backend:1.0.0
+        image: joindevops/backend:1.0.0
 ---
 kind: Service
 apiVersion: v1
