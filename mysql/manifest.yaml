@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: learn25/mysql:1.0.0
+        image: joindevops/mysql:1.0.0
 ---
 kind: Service
 apiVersion: v1
